@@ -1,6 +1,6 @@
 {
   "name": "node-js-sample",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/pedrogomes-dev/node-js-sample"
   },
   "keywords": [
     "node",
